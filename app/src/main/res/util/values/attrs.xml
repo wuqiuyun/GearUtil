@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 标题栏 -->
+    <declare-styleable name="TitleView">
+        <attr name="bg_color" format="color" />
+        <attr name="title_text" />
+        <attr name="title_text_sub" format="string" />
+        <attr name="left_text" format="string" />
+        <attr name="left_text_color" format="color" />
+        <attr name="right_text" />
+        <attr name="left_icon" />
+        <attr name="right_icon" />
+        <attr name="right_icon_sub" format="reference" />
+        <attr name="title_text_color" />
+        <attr name="right_text_color" />
+        <attr name="isHome" format="boolean" />
+        <attr name="bg_drawable" />
+    </declare-styleable>
+</resources>
